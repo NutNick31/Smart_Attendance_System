@@ -23,7 +23,7 @@ To install numpy
 pip install numpy
 ```
 #### Note : To run the project, run the app.py in terminal
-Put Image
+![Way to Run the app.py](Readme_3.png)
 
 ## Steps to set it up, to recognise your face
 - Add your image in the training dataset.
