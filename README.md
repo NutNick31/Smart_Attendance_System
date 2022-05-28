@@ -1,5 +1,7 @@
 # smart_attendance_system
 
+![Flowchart](readme_flowchart.png)
+
 ## Pre-requisites
 - Flask
 - Face_Recognition
@@ -30,3 +32,5 @@ Put Image
 - Then add your created variable to the **known_face_encodings** List.
 - Then add your actual name to the **known_face_names** List.
 - Then run the application as mentioned above and enjoy the process ☺️.
+
+![Code to be changed](Readme_Changes.png)
