@@ -1,4 +1,4 @@
-# smart_attendance_system
+# Smart_attendance_system
 
 ![Flowchart](readme_flowchart.png)
 
